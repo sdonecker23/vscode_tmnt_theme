@@ -49,9 +49,9 @@
 		"tab.border": "#363D46",
 		"tab.inactiveBackground": "#4F555C",
 		"tab.unfocusedInactiveForeground": "#A7AAAB",
-		"titleBar.activeBackground": "#F6F6F6",
+		"titleBar.activeBackground": "#ACB1BA",
 		"titleBar.activeForeground": "#000000",
-		"titleBar.inactiveBackground": "#F6F6F6",
+		"titleBar.inactiveBackground": "#ACB1BA",
 		"titleBar.inactiveForeground": "#767B81",
 	},
 	"tokenColors": [

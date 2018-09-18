@@ -2,7 +2,7 @@
 	"name": "vscode-tmnt-theme",
 	"displayName": "VS Code - TMNT Theme",
 	"description": "TMNT theme extension for VS Code.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "sdonecker23",
     "license": "MIT",
 	"engines": {
