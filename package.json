@@ -1,0 +1,27 @@
+{
+	"name": "vscode-tmnt-theme",
+	"displayName": "TMNT",
+	"description": "TMNT theme extension for VS Code.",
+	"version": "1.0.0",
+	"publisher": "sdonecker23",
+    "license": "MIT",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"repository": {
+        "type": "git",
+        "url": "git+https://https://github.com/sdonecker23/vscode_cisco_asa_syntax_highlighter.git"
+    },
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "TMNT",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tmnt_theme.json"
+			}
+		]
+	}
+}
